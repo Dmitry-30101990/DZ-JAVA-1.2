@@ -7,7 +7,7 @@
 ### В результате тестирования выявлены следующие дефекты:
 
 - KeyValidator приложение работает не по Руководству использования KeyValidator #1
-Ссылка на Баг репорт: https://github.com/Dmitry-30101990/DZ-JAVA-1.2/issues/1
+Ссылка на **[Баг репорт](https://github.com/Dmitry-30101990/DZ-JAVA-1.2/issues/1)**.
 
 
 ### Описание процесса тестирования
@@ -24,8 +24,8 @@
 - Руководство использования
 
 
-### В качестве тестовых данных использовались данные из Руководство использования:
-- https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md 
+### В качестве тестовых данных использовались данные из **[Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md )**.
+
 
 ### Ожидаемый результат:
 
