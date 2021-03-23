@@ -6,7 +6,7 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
-- KeyValidator приложение работает не по Руководству использования KeyValidator #1
+- KeyValidator приложение работает не по **[Руководству использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)**.
 Ссылка на **[Баг репорт](https://github.com/Dmitry-30101990/DZ-JAVA-1.2/issues/1)**.
 
 
@@ -37,4 +37,3 @@
 
 - Windows 10 Pro x64>
 - Java 11.0.10
-- GIT>
